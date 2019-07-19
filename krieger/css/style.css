@@ -8,8 +8,8 @@ body{
 }
 .wallpaper {
     padding-top: 25rem;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(92, 77, 66, .8)), to(rgba(92, 77, 66, .8))), url(../img/handmade_1600.jpg);
-    background: linear-gradient(to bottom, rgba(131, 115, 115, 0.37) 0, rgba(92, 77, 66, .8) 100%), url(../img/handmade_1600.jpg);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(92, 77, 66, .8)), to(rgba(92, 77, 66, .8))), url(../img/products.jpg);
+    background: linear-gradient(to bottom, rgba(131, 115, 115, 0.37) 0, rgba(92, 77, 66, .8) 100%), url(../img/products.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -18,8 +18,8 @@ body{
 
 .tips {
     padding-top: 15rem;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgb(0, 0, 0)), to(rgb(0, 0, 0))), url(../img/vc_spotlight-pacificcresttrail_module6_shastatrinitynationalforest_st_rm_513093195_0.jpg);
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.37) 0, rgb(0, 0, 0) 100%), url(../img/vc_spotlight-pacificcresttrail_module6_shastatrinitynationalforest_st_rm_513093195_0.jpg);
+    background: -webkit-gradient(linear, left top, left bottom, from(rgb(0, 0, 0)), to(rgb(0, 0, 0))), url(../img/moutain-2.jpg);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.37) 0, rgb(0, 0, 0) 100%), url(../img/moutain-2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
